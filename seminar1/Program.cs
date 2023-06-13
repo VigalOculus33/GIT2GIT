@@ -15,3 +15,5 @@ else if(num1 < num2)
 {
     Console.WriteLine("второе число больше первого");
 }
+
+//задача 3
